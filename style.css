@@ -30,3 +30,8 @@ header{
 .portfolio h2{
     color: black;
 }
+
+.portfolio img{
+    width: 100%;
+    border-radius: 10px;
+}
