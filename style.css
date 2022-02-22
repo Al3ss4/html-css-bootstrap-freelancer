@@ -15,5 +15,18 @@ header{
 }
 .linew{
     width: 75px;
-    border-bottom: 2px solid white;
+    border-bottom: 4px solid white;
+}
+
+.lineb{
+    width: 75px;
+    border-bottom: 4px solid black;
+}
+
+.bg-black{
+    color: black;
+}
+
+.portfolio h2{
+    color: black;
 }
