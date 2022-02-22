@@ -10,6 +10,9 @@ header{
     background-color: #1abc9c;
 }
 
+.col-green{
+    color: #1abc9c;
+}
 .avatar{
     width: 25%;
 }
@@ -34,4 +37,8 @@ header{
 .portfolio img{
     width: 100%;
     border-radius: 10px;
+}
+
+.top-footer{
+    background-color: #3a546d;
 }
