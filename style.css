@@ -11,6 +11,15 @@ header{
     background-color: #1abc9c;
 }
 
+.navbar-dark .navbar-nav .nav-link {
+    color:white;
+}
+
+.navbar-dark .navbar-toggler {
+    color: white;
+    border-color: white;
+}
+
 .col-green{
     color: #1abc9c;
 }
@@ -37,6 +46,11 @@ header{
 
 .col-black{
     color: black;
+}
+
+.btn-outline-info {
+    color: white;
+    border-color: white;
 }
 
 .portfolio img{
