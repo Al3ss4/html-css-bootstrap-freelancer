@@ -6,7 +6,7 @@ header{
     background-color: #2c3e50;
 }
 
-}
+
 .jumbotron, .about, .bg-green{
     background-color: #1abc9c;
 }
@@ -17,12 +17,12 @@ header{
 .avatar{
     width: 25%;
 }
-.linew{
+.bord_w{
     width: 75px;
     border-bottom: 4px solid white;
 }
 
-.lineb{
+.bord_b{
     width: 75px;
     border-bottom: 4px solid black;
 }
