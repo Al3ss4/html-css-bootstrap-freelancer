@@ -1,67 +1,71 @@
-body{
-    color: white
+body {
+  color: white;
 }
 
-header{
-    background-color: #2c3e50;
+header {
+  background-color: #2c3e50;
 }
 
-
-.jumbotron, .about, .bg-green{
-    background-color: #1abc9c;
+.jumbotron,
+.about,
+.bg-green {
+  background-color: #1abc9c;
 }
 
 .navbar-dark .navbar-nav .nav-link {
-    color:white;
+  color: white;
 }
 
 .navbar-dark .navbar-toggler {
-    color: white;
-    border-color: white;
+  color: white;
+  border-color: white;
 }
 
-.col-green{
-    color: #1abc9c;
+.col-green {
+  color: #1abc9c;
 }
-.avatar{
-    width: 25%;
+.avatar {
+  width: 25%;
 }
-.bord_w{
-    width: 75px;
-    border-bottom: 4px solid white;
-}
-
-.bord_b{
-    width: 75px;
-    border-bottom: 4px solid black;
+.bord_w {
+  width: 75px;
+  border-bottom: 4px solid white;
 }
 
-.bg-black{
-    color: black;
+.bord_b {
+  width: 75px;
+  border-bottom: 4px solid black;
 }
 
-.portfolio h2, .contact h2, .contact p, hr{
-    color: black;
+.bg-black {
+  color: black;
 }
 
-.col-black{
-    color: black;
+.portfolio h2,
+.contact h2,
+.contact p,
+hr {
+  color: black;
+}
+
+.col-black {
+  color: black;
 }
 
 .btn-outline-info {
-    color: white;
-    border-color: white;
+  color: white;
+  border-color: white;
 }
 
-.portfolio img{
-    width: 100%;
-    border-radius: 10px;
+.portfolio img {
+  width: 100%;
+  border-radius: 10px;
 }
 
-.top-footer{
-    background-color: #3a546d;
+.top-footer {
+  background-color: #3a546d;
 }
 
-.bot-footer{
-    background-color: #2c3e50;
+.bot-footer {
+  background-color: #2c3e50;
 }
